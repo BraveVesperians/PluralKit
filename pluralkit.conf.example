@@ -1,7 +1,7 @@
 {
-  "PluralKit": {
+  "BraveTime": {
     "Bot": {
-      "Token": "BOT_TOKEN_GOES_HERE"
+      "Token": "OTI4MzM3NTcwNjY3MDUzMDU4.YdXTvA.a1GC4pjH9NvUK7f5bitVL8NxiJM"
     },
     "Database": "Host=localhost;Port=5432;Username=myusername;Password=mypassword;Database=mydatabasename"
   }
